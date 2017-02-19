@@ -65,6 +65,14 @@ screenshot, then copy it to this directory (`pp-02`) and add and commit it to th
 Then, also list here the keyboard commands to switch between your different virtual desktops (on
 some operating systems, you might be able to customize the shortcuts to your own liking):
 
+WINKEY + TAB: Enter Task View and access virtual desktops.
+
+WINKEY + CTRL + LEFT and WINKEY + CTRL + RIGHT: Switch between virtual desktops.
+
+WINKEY + CTRL + D: Create a new virtual Desktop.
+
+WINKEY + CTRL + F4: Close the current virtual desktop.
+
 
 4. Set up a distraction-free browser.
 
