@@ -23,6 +23,6 @@ Your Rationale: Calm blues with mysterious purples to make sure the user knows t
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=1010L0k-dlZGgDaISuWAocRH9at
+Your Rationale: Rubies are red, rails rust and turn red.
 
