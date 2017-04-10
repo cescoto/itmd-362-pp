@@ -8,8 +8,8 @@ Opt for the Paletton Preview mode Default with Text; you can start at this URL i
 
 1. An adjacent color palette for introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=5000u0k005G0ijg01cQ3W02cl0q
+Your Rationale: The color palette for the Nintendo Switch
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
