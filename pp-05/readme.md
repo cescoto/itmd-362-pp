@@ -18,8 +18,8 @@ Your Rationale: Started with a base green color for botanical, brown for ground,
 
 3. A triadic color palette for styling the login page for a private messaging app
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=54b0L0k-dlZDcJ3LszuC4a6K377
+Your Rationale: Calm blues with mysterious purples to make sure the user knows their data is safe.
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
