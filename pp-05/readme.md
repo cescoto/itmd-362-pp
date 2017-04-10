@@ -13,8 +13,8 @@ Your Rationale: The color palette for the Nintendo Switch
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=32P0X0kDFhOsyqtvplIN2dcUX7B
+Your Rationale: Started with a base green color for botanical, brown for ground, blue for water.
 
 3. A triadic color palette for styling the login page for a private messaging app
 
