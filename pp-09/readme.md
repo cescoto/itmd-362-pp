@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.http://www.d.umn.edu/itss/training/online/usability/checklist.html
+2.http://www.jtc372.net/checklist.html
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Consistent look and feel
+2. Legible text
+3. Be able to tell where you are
+4. Uncluttered
+5. All links work
+6. No bloat
+7. Responsive design
+8. Browser agnostic
+9. No propietary plugins
+10. Be able to provide content without JS
