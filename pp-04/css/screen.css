@@ -196,10 +196,27 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  font-family: 'Droid Sans Mono','Courier New',Courier,'Lucida Sans Typewriter','Lucida Typewriter',monospace;
+}
+
+h1 {
+  font-size: 1.636em; /* 36px */
+  line-height: 1.94em; /* 36px / ~120% */
+  padding-bottom: 0.250em;
 }
 
 label {
   display: block;
+}
+
+ol {
+  padding-top: 1.182em;
+  padding-bottom: 1.182em;
+
+}
+
+input {
+  padding: 0.591em;
 }
 
 /* ===== LAYOUT STYLES ====== */
