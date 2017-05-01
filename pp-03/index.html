@@ -7,6 +7,31 @@
   <link rel="stylesheet" media="screen" href="screen.css" />
 </head>
 <body>
-
+<main id="content">
+  <form method="get" action="#null">
+    <h1>Get Our Newsletter</h1>
+    <p>
+      Sign up to be first to receive the lastest news
+      and breaking alerts right in your inbox.
+    </p>
+    <ol>
+      <li id="input-email">
+        <label for="email">What's your email?</label>
+        <input type="email" name="email" id="email" pattern="^.+@.+$" placeholder="user@example.com" />
+      </li>
+      <li id="input-phone-number">
+        <label for="phone">What's your phone number?</label>
+        <input type="tel" name="phone" id="phone" placeholder="555-555-5555"/>
+      </li>
+      <li id="input-age-verification">
+        <label for="age-verification">How old are you?</label>
+        <input type="number" id="age-verification" name="age-verification" placeholder="18" min="0" max="100" />
+      </li>
+      <li id="input-submit">
+        <input type="submit" name="submit" id="submit" value="Subscribe" />
+      </li>
+    </ol>
+  </form>
+</main>
 </body>
 </html>
